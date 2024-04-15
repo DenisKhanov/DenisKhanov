@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/DenisKhanov/DenisKhanov/blob/main/header.png)](https://github.com/DenisKhanov/DenisKhanov)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=800&lines=I'm+Golang+backend+developer+and+i+like+to+study+IT+technologies)](https://git.io/typing-svg)
 
-<h3 >I'm golang backend developer</h3>
 <h2 > My tech stack : </h2>
 
 
@@ -20,22 +20,18 @@
 
 </div>
 
+
+### My Go projects
+- [shortenerURL](https://github.com/DenisKhanov/shorterURL) - Link shortener is my largest educational project where I have applied most of the technologies I am proficient in.
+- [TgBOT](https://github.com/DenisKhanov/TgBOT) - The project where I use Telegram as a frontend client to interact with my backend.
+- [Gophermart](https://github.com/DenisKhanov/Gophermart) - The midterm project of the first half of the course. A service for accumulating and managing bonus points.
+- [EventGateway (Kafka)](https://github.com/DenisKhanov/EventGateway-Kafka) - This service accepts JSON in a request from the user and sends it to a Kafka topic named Handler. After that, it reads incoming messages with the modified JSON by the second service, and then returns it to the user.
+- [ProcessorService (Kafka)](https://github.com/DenisKhanov/ProcessorService-Kafka) - This service reads messages from a Kafka topic with the name Handler, extracts JSON from them, makes changes to it and sends a topic with the name received from the user to Kafka.
+- [FileManager](https://github.com/DenisKhanov/FileManager) - A small file manager that I wrote in August 2023 to hone my file system interaction skills.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/DenKhan" target="blank"><img align="center" src="https://github.com/DenisKhanov/DenisKhanov/blob/main/telegram-paper-airplane-apps-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/denkhan/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deniskh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deniskh/" target="blank"><img align="center" src="https://github.com/DenisKhanov/DenisKhanov/blob/main/instagram-color-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
-<!--
-**DenisKhanov/DenisKhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
