@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/DenisKhanov/DenisKhanov/blob/main/header.png)](https://github.com/DenisKhanov/DenisKhanov)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=800&lines=I'm+Golang+backend+developer+and+i+like+to+study+IT+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=800&lines=I'm+Golang+backend+developer,+and+i+enjoy+learning+IT+technologies)](https://git.io/typing-svg)
 
 <h2 > My tech stack : </h2>
 
