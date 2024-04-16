@@ -22,7 +22,7 @@
 
 
 ### My Go projects
-- [shortenerURL](https://github.com/DenisKhanov/shorterURL) - Link shortener is my largest educational project where I have applied most of the technologies I am proficient in.
+- [Shortener-URL](https://github.com/DenisKhanov/Shortener-URL) - Link shortener is my largest educational project where I have applied most of the technologies I am proficient in.
 - [TgBOT](https://github.com/DenisKhanov/TgBOT) - The project where I use Telegram as a frontend client to interact with my backend.
 - [Gophermart](https://github.com/DenisKhanov/Gophermart) - The midterm project of the first half of the course. A service for accumulating and managing bonus points.
 - [EventGateway (Kafka)](https://github.com/DenisKhanov/EventGateway-Kafka) - This service accepts JSON in a request from the user and sends it to a Kafka topic named Handler. After that, it reads incoming messages with the modified JSON by the second service, and then returns it to the user.
