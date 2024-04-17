@@ -8,7 +8,9 @@
 <div >
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40"/>&nbsp;
+<img src="https://github.com/DenisKhanov/Shortener-URL/blob/main/Gin-Framework.svg" title="GIN" alt="GIN" width="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" alt="gRPC" width="40"/>&nbsp;
+<img src="https://github.com/DenisKhanov/Shortener-URL/blob/main/rest-api-blue-logo-22099.svg" title="REST API" alt="REST API" width="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
